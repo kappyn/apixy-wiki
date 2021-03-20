@@ -1,4 +1,14 @@
 # Guidelines for editing the wiki
+Any changes to this wiki should follow these rules.
+
+*:question: GitLab Wiki documentation [is available here](https://docs.gitlab.com/ee/user/project/wiki/)*
+
+## Markdown style
+1. For code blocks, specify the language [[Docs](https://gitlab.fit.cvut.cz/help/user/markdown#code-and-syntax-highlighting)]
+2. Mark links explicitly, do not leave it to the GitLab renderer: ~~`https://fit.cvut.cz/`~~ `[FIT](https://fit.cvut.cz/)`
+
+*:question: More information about the GitLab MD flavour can be found [in the docs](https://gitlab.fit.cvut.cz/help/user/markdown#code-and-syntax-highlighting)*
+
 
 ## File structure
 
