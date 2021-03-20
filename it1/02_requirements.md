@@ -58,7 +58,7 @@ Scenario:
 
 ### Use case 2 
 
-The user is a consumer of data aggregated by the proxy service, for instance a *F**rontend* *D**eveloper*. The user cannot manage projects or the way they define, use and aggregate data. Instead, they only make requests to the proxy and use the available data for their needs – i.e., a UI. 
+The user is a consumer of data aggregated by the proxy service, for instance a *Frontend Developer*. The user cannot manage projects or the way they define, use and aggregate data. Instead, they only make requests to the proxy and use the available data for their needs – i.e., a UI. 
 
 Scenario: 
 
