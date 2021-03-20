@@ -2,6 +2,9 @@
 
 ## Table of contents
 
+- Miscellaneous
+   * [Naming](Naming.md)
+
 1. Analytical phase
    1. [Business processes analysis](./it1/01_business-processes)
    2. [Requirements and use cases](./it1/02_requirements)
