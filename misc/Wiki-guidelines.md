@@ -12,6 +12,7 @@
 
 1. For pages that need a meaningful order, add a prefix: `01_page.md`
 2. Separate prefixes with an underscore, separate words in the title with a hypen: `01_page-title-with-multiple-words`
+3. Start the actual page name with a capital letter: ~~`wiki-guidelines.md`~~ `Wiki-guidelines.md`
 
 ## Sidebar and table of contents
 
