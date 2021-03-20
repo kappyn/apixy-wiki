@@ -6,7 +6,7 @@ What is it about?
 > sequence to be used for identifiers which denote variables, types, functions,
 > and other entities in source code and documentation.
 
-Read more at [Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming\))
+Read more at [Wikipedia](https://en.wikipedia.org/wiki/Naming_convention_(programming))
 
 Particular document aims to unify naming in project documentation.
 
