@@ -1,5 +1,6 @@
 Miscellaneous
 - [Naming](./misc/Naming)
+- [Wiki guidelines](./misc/wiki-guidelines)
 
 Analytical phase
 - [Business processes analysis](./it1/01_business-processes)

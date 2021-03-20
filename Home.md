@@ -3,7 +3,8 @@
 ## Table of contents
 
 - Miscellaneous
-   * [Naming](./misc/Naming)
+  - [Naming](./misc/Naming)
+  - [Wiki guidelines](./misc/wiki-guidelines)
 
 1. Analytical phase
    1. [Business processes analysis](./it1/01_business-processes)
