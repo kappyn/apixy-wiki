@@ -1,3 +1,5 @@
+[Home](./Home)
+
 Miscellaneous
 - [Naming](./misc/Naming)
 - [Wiki guidelines](./misc/wiki-guidelines)
