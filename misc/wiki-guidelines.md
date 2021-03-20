@@ -6,6 +6,7 @@
 2. Pages that are related to the general project, **not iteration-specific**, go to the `misc` folder
 3. The wiki root is reserved for the Home page and "meta" pages: sidebar, ...
 4. Prefer short pages with a single topic to long files with multiple sections
+5. For files an images, create a `media` folder in the page's directory
 
 ## File naming
 
