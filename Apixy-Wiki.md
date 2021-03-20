@@ -1,1 +1,0 @@
-This is a wiki for the Apixy project.
