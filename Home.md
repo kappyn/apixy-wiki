@@ -3,7 +3,7 @@
 ## Table of contents
 
 - Miscellaneous
-   * [Naming](Naming.md)
+   * [Naming](./Naming)
 
 1. Analytical phase
    1. [Business processes analysis](./it1/01_business-processes)
