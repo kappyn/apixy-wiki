@@ -1,7 +1,7 @@
 # Business process analytics 
 
 ## Process 1: User registration / login 
-
+### Description
 - Roles: User (client), Server (application) 
 - Activities: 
   - User registration 
@@ -11,11 +11,11 @@
     - Existing verified users can log in 
     - Login Success / Wrong credentials
 
-## Register/login diagram
+### Diagram
 ![Register/login](uploads/c5a5624f2718ae64e518a30724356b41/image.png)
 
 ## Process 2: API setup & verification 
-
+### Description
 - Roles: User (client), Server (proxy host), external API 
 - Activities: 
   - Create / Edit / Delete a data source 
@@ -33,8 +33,11 @@
     - Activate/Deactivate proxy 
     - Backup data manually 
 
-## Process 3: Data aggregation 
+### Diagram
+![API setup & verification](uploads/6d0aca4992aaeb5111b76d963a1275f3/api_setup_verif_diagram.jpg)
 
+## Process 3: Data aggregation 
+### Description
 - Roles: Server (proxy host), API1, API2 
 - Activities: 
   - Server gets a request from the user 
@@ -42,11 +45,11 @@
   - Service concatenates/aggregates data from each source to single output 
   - Service responds with aggregated data in JSON format
 
-## Data aggregation diagram
+### Diagram
 ![Data_aggregation](uploads/fc806cb053d2310feebd8bcb10955b51/Data_aggregation.jpg)
 
 ## Process 4: User communication with proxy 
-
+### Description
 - Roles: User (client), Server (proxy host), external API 
 - Activities: 
   - Client sends query to a server with desired settings 
@@ -55,5 +58,5 @@
   - Gather data and format answer 
   - Server sends formatted answer to user (client) 
 
-## Proxy communication diagram
+## Diagram
 ![proxy_communication_diagram](uploads/7882df4a2cbae565886d3ce30909a67e/proxy_communication_diagram.png)
