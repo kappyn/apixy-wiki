@@ -37,7 +37,10 @@
   - Server gets a request from the user 
   - Proxy service sends request(s) to each specified data source in the project/collection 
   - Service concatenates/aggregates data from each source to single output 
-  - Service responds with aggregated data in JSON format 
+  - Service responds with aggregated data in JSON format
+
+## Data aggregation diagram
+![Data_aggregation](uploads/fc806cb053d2310feebd8bcb10955b51/Data_aggregation.jpg)
 
 ## Process 4: User communication with proxy 
 
