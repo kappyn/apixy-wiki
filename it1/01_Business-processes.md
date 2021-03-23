@@ -11,6 +11,9 @@
     - Existing verified users can log in 
     - Login Success / Wrong credentials
 
+## Register/login diagram
+![Register/login](uploads/c5a5624f2718ae64e518a30724356b41/image.png)
+
 ## Process 2: API setup & verification 
 
 - Roles: User (client), Server (proxy host), external API 
@@ -54,6 +57,3 @@
 
 ## Proxy communication diagram
 ![proxy_communication_diagram](uploads/7882df4a2cbae565886d3ce30909a67e/proxy_communication_diagram.png)
-
-## Register/login diagram
-![Register/login](uploads/c5a5624f2718ae64e518a30724356b41/image.png)
