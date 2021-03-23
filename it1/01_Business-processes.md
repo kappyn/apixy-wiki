@@ -54,3 +54,6 @@
 
 ## Proxy communication diagram
 ![proxy_communication_diagram](uploads/7882df4a2cbae565886d3ce30909a67e/proxy_communication_diagram.png)
+
+## Register/login diagram
+![Register/login](uploads/c5a5624f2718ae64e518a30724356b41/image.png)
