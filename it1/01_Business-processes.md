@@ -48,3 +48,6 @@
   - Data look-up from cache, or multiple sources 
   - Gather data and format answer 
   - Server sends formatted answer to user (client) 
+
+## Proxy communication diagram
+![proxy_communication_diagram](uploads/7882df4a2cbae565886d3ce30909a67e/proxy_communication_diagram.png)
