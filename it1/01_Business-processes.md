@@ -12,7 +12,7 @@
     - Login Success / Wrong credentials
 
 ### Diagram
-![Register/login](uploads/c5a5624f2718ae64e518a30724356b41/image.png)
+![User registration / login diagram](media/registration_diagram.png)
 
 ## Process 2: API setup & verification 
 ### Description
@@ -34,7 +34,7 @@
     - Backup data manually 
 
 ### Diagram
-![API setup & verification](uploads/6d0aca4992aaeb5111b76d963a1275f3/api_setup_verif_diagram.jpg)
+![API setup & verification](media/api_setup_verif_diagram.jpg)
 
 ## Process 3: Data aggregation 
 ### Description
@@ -46,7 +46,7 @@
   - Service responds with aggregated data in JSON format
 
 ### Diagram
-![Data_aggregation](uploads/fc806cb053d2310feebd8bcb10955b51/Data_aggregation.jpg)
+![Data aggregation diagram](media/data_aggregation_diagram.jpg)
 
 ## Process 4: User communication with proxy 
 ### Description
@@ -59,4 +59,4 @@
   - Server sends formatted answer to user (client) 
 
 ## Diagram
-![proxy_communication_diagram](uploads/7882df4a2cbae565886d3ce30909a67e/proxy_communication_diagram.png)
+![Proxy communication diagram](media/proxy_communication_diagram.png)
