@@ -84,14 +84,12 @@ Use case 1 - project creator/owner:
 
 - Unit tests 
 - Create database structure 
-
 - Docker integration 
 - Enable saving data to the desired API 
 
-Use case 2 - consumer: 
+Use case 2 - consumer:
 
 - Basic communication with API 
-
 - Searching data by selected information and their subsequent storage/processing to required form 
 - Storing last used API and data selected from them for later use 
 - E2E (frontend) tests 
