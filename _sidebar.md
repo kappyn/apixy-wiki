@@ -1,8 +1,8 @@
 [Home](./Home)
 
 Miscellaneous
-- [Naming](./misc/Naming)
 - [Wiki guidelines](./misc/wiki-guidelines)
+- [Naming](./misc/Naming)
 
 Analytical phase
 - [Business processes analysis](./it1/01_business-processes)
