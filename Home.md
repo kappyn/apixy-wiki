@@ -5,6 +5,7 @@
 - Miscellaneous
   - [Wiki guidelines](./misc/wiki-guidelines)
   - [Naming](./misc/Naming)
+  - [Tech stack](./misc/tech-stack)
 
 1. Analytical phase
    1. [Business processes analysis](./it1/01_business-processes)
