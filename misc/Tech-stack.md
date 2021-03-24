@@ -88,7 +88,7 @@ A nice approach would be to use `ORM` for PostgreSQL and `ODM` for MongoDB
 
 ## Frontend
 
-`TDB`
+`TBD`
 
 React
 
