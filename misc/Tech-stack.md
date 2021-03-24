@@ -83,7 +83,7 @@ A nice approach would be to use `ORM` for PostgreSQL and `ODM` for MongoDB
 
 [odmantic](https://github.com/art049/odmantic) ODM + validation for MongoDB
 
-[sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ORM, can be used with ``pydantic`
+[sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ORM, can be used with `pydantic`
 
 
 ## Frontend
