@@ -1,11 +1,4 @@
 # Git workflow
-The `master` branch is protected - pushing directly is not allowed. Changes to the master branch can only be made through a gitlab merge request.
-
-We're keeping the branching simple - a `master` branch and `feature/fix` branches that are merged right back to master. This is subject to change in the future.
-
-Try to keep feature branches as short as possible. Large merges are dangerous.
-
-Code merged to `master` should be *production-ready*.
 
 ## Steps to implement a change
 1. Create an **issue** for the task.
@@ -23,3 +16,10 @@ Code merged to `master` should be *production-ready*.
     - Your changes will be applied to the master branch.
     - Delete the original branch (this keeps the repo clean).
     - Do not squash your commits - save the commit history.
+
+## Additional notes
+* The `master` branch is protected - pushing directly is not allowed. Changes to the master branch can only be made through a gitlab merge request.
+* We're keeping the branching simple - a `master` branch and `feature/fix` branches that are merged right back to master. This is subject to change in the future.
+* Try to keep feature branches as short as possible. Large merges are dangerous.
+* Code merged to `master` should be *production-ready*.
+* All of the actions above (creating a branch, creating a MR, merging...) are available through the GitLab web UI. The [glab](https://github.com/profclems/glab) CLI tool is also available and supports working with issues, merge requests etc. (things that are gitlab-specific) through an interface similar to `git`.
