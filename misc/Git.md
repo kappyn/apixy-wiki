@@ -12,10 +12,12 @@
     - `git merge origin/master`
 5. Make sure the pipeline on your MR is passing - merging changes with failing pipelines is not allowed.
 6. Ask someone to do **code review** for your MR - assign them as a Reviewer.
-7. When the reviewer accepts your changes, the pipeline is passing, and there are no conflicts, *merge* the MR.
+    - The reviewer's job is to go through the code and check for obvious mistakes - **the reviewer does not test the code manually**, it's **up to the author to make sure their code is bug-free**.
+7. When the reviewer accepts your changes, they (**the reviewer**) will merge the MR:
     - Your changes will be applied to the master branch.
     - Delete the original branch (this keeps the repo clean).
     - Do not squash your commits - save the commit history.
+    - While it's the reviewer who presses the *Merge* button, the MR is still **the author's responsibility**.
 
 ## Additional notes
 * The `master` branch is protected - pushing directly is not allowed. Changes to the master branch can only be made through a gitlab merge request.
