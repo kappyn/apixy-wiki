@@ -1,6 +1,5 @@
 # Domain model
 
-TODO: add some text about entities
 
 ![domain model](./media/domain_model.png)
 
