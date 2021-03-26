@@ -12,7 +12,7 @@
     - Login Success / Wrong credentials
 
 ### Diagram
-![User registration / login diagram](media/registration_diagram.png)
+![User registration / login diagram](media/User_registration_login.png)
 
 ## Process 2: API setup & verification 
 ### Description
