@@ -3,6 +3,7 @@
 Miscellaneous
 - [Wiki guidelines](./misc/wiki-guidelines)
 - [Naming](./misc/Naming)
+- [Git workflow](./misc/Git)
 - [Tech stack](./misc/tech-stack)
 
 Analytical phase
