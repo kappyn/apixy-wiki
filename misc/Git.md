@@ -13,6 +13,7 @@
 5. Make sure the pipeline on your MR is passing - merging changes with failing pipelines is not allowed.
 6. Ask someone to do **code review** for your MR - assign them as a Reviewer.
     - The reviewer's job is to go through the code and check for obvious mistakes - **the reviewer does not test the code manually**, it's **up to the author to make sure their code is bug-free**.
+    - Should there be issues with the code, the reviewer will start a discussion through gitlab's code review feature.
 7. When the reviewer accepts your changes, they (**the reviewer**) will merge the MR:
     - Your changes will be applied to the master branch.
     - Delete the original branch (this keeps the repo clean).
