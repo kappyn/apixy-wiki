@@ -59,4 +59,4 @@
   - Server sends formatted answer to user (client) 
 
 ## Diagram
-![Proxy communication diagram](media/proxy_communication_diagram.png)
+![proxy_communication_diagram](uploads/57b73a0d46cb7c6e633990f75e276411/proxy_communication_diagram.png)
