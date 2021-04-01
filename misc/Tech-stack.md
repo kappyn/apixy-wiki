@@ -88,19 +88,11 @@ A nice approach would be to use `ORM` for PostgreSQL and `ODM` for MongoDB
 
 ## Frontend
 
-`TBD`
+- [React](https://reactjs.org/)
 
-Bootstrap
+- [react-bootstrap](https://react-bootstrap.github.io/) - version of Bootstrap for React components
 
-React
-
-Option 2 is Vue.
-
-Option 3 is Elm (as is described in Moodle)
-
-## Libraries 
-
-[react-admin](https://github.com/marmelab/react-admin) - admin panel for superuser (dashboard etc) and UI for users
+- [react-admin](https://github.com/marmelab/react-admin) - admin panel for superuser (dashboard etc) and UI for users
 
 ## Tests
 
