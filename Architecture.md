@@ -36,6 +36,6 @@
 
 ---
 
-#### Data persistance
+#### Data persistence
 
 The technology used for persistent storage of data is Postgres, which runs in a separate container.
