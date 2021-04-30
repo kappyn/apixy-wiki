@@ -14,4 +14,4 @@
    3. [Domain model](./it1/03_domain-model)
 
 2. Documentation
-   - [Architecture documentation](./architecture-documentation)
+   - [Architecture documentation](./architecture)
