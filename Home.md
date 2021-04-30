@@ -14,6 +14,4 @@
    3. [Domain model](./it1/03_domain-model)
 
 2. Architecture documentation
-  - [Software architecture]
-  - [Chosen technologies]
-  - [Data persistance]
+  - [Software architecture](uploads/0c72057fc76e4d57a8507d091d824bc3/Software_architecture.md)
