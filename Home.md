@@ -13,5 +13,5 @@
    2. [Requirements and use cases](./it1/02_requirements)
    3. [Domain model](./it1/03_domain-model)
 
-2. Architecture documentation
+2. Documentation
    - [Software architecture](./Software-architecture)
