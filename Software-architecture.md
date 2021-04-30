@@ -1,4 +1,4 @@
-## Software architecture
+## Architecture documentation
 
 
 #### Logical components
