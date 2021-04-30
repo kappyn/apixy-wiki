@@ -6,6 +6,7 @@
 
 `migrations/models` contains database updates in SQL, which are based on the data structures located in models.py.
 
+---
 
 #### Chosen technologies
 
@@ -31,6 +32,7 @@
  
 - [`uvicorn`](https://pypi.org/project/uvicorn/) is a lightning-fast ASGI server implementation, using [uvloop](https://github.com/MagicStack/uvloop) and [httptools](https://github.com/MagicStack/httptools).
 
+---
 
 #### Data persistance
 
