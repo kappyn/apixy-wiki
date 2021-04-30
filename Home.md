@@ -14,4 +14,4 @@
    3. [Domain model](./it1/03_domain-model)
 
 2. Architecture documentation
-  - [Software_architecture.md](uploads/cfaeaffad7b8e35279a015967677b411/Software_architecture.md)
+   - [Software architecture](./Software_architecture)
