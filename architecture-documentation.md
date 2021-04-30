@@ -6,7 +6,7 @@
 
 `entities` fetching data from a remote source and processed data source outputs.
 
-`migrations/models` contains database updates in SQL, which are based on the data structures located in models.py.
+`migrations/models` contains database updates in SQL, which are based on the data structures located in [models.py](https://gitlab.fit.cvut.cz/apixy/apixy-be/blob/master/apixy/models.py).
 
 ---
 
